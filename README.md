@@ -7,7 +7,7 @@
 
 With the availability of the OpenAI API and the versatility of the Langchain package for building LLM agents, creating specialized multi-agent tools has become easier than ever. In this blog post, I will show you how I built a multi-agent web application for protein research using Langchain and the GPT model. This application leverages Langchain agents to streamline the research process, focusing specifically on protein research. By integrating multiple data sources and tools, it provides a comprehensive platform for generating and accessing protein-related research effortlessly.
 
-For this project, I chose the OpenAI GPT-4o as the language model and utilized Langchain to design the agents. The application employs five different agents to perform various research tasks, ensuring a thorough and efficient research process. Built with Streamlit, this web application offers a user-friendly interface and robust functionality. Detailed implementation can be found in the GitHub repository. (https://github.com/nidhinthomas-ai/langchain_agents_research_bot). 
+For this project, I chose the OpenAI GPT-4o as the language model and utilized Langchain to design the agents. The application employs five different agents to perform various research tasks, ensuring a thorough and efficient research process. Built with Streamlit, this web application offers a user-friendly interface and robust functionality. Detailed implementation can be found in the GitHub repository. (https://github.com/nidhinthomas-ai/gpt4_langchain_research_web_app). 
 
 This web application was based on the original work from Peter Martens (https://github.com/petermartens98/GPT4-LangChain-Agents-Research-Web-App)
 
